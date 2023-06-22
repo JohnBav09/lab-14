@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/JohnBav09/lab-14#readme",
   "dependencies": {
-    "pg": "^7.12.1"
+    "pg": "^8.11.0"
   }
 }
